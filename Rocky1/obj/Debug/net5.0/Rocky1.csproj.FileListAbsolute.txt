@@ -429,4 +429,11 @@ C:\Users\glb90082739\source\repos\Rocky1\Rocky1\bin\Debug\net5.0\zh-Hans\Microso
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\CategoryController1\Index.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
