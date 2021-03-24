@@ -437,3 +437,5 @@ C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Cat
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs
 C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\glb90082739\source\repos\Rocky1\Rocky1\obj\Debug\net5.0\Razor\Views\Product\Upsert.cshtml.g.cs
